@@ -1,0 +1,12 @@
+INDEX VERSION 1.4+/Users/anirudhbandi/Desktop/ARMS/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2237860052.index
+813820731.index
+3202715036.index
+399364824.index
+3644735862.index
+399364824.index
+115216096.index
+2926911493.index
+2123807560.index
+2498008803.index
+1175640930.index

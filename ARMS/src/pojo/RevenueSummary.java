@@ -1,0 +1,15 @@
+package pojo;
+
+public class RevenueSummary {
+	private int NumberOfTickets;
+	private int Revenue;
+	private int month;
+	
+	public RevenueSummary(int numberOfTickets, int revenue , int month) {
+		super();
+		NumberOfTickets = numberOfTickets;
+		Revenue = revenue;
+		this.month = month;
+	}
+
+}
